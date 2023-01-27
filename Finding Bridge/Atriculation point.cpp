@@ -120,7 +120,6 @@ void dfs(ll u,ll d,ll p)
 void input()
 {
     ll n,m,ans=0,track=-1;
-
     cin>>n>>m;
 
     while(m--)
